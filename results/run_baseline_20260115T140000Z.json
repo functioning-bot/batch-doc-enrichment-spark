@@ -1,0 +1,16 @@
+{
+  "mode": "baseline",
+  "spark_version": "3.5.1",
+  "input_path": "data/input.jsonl",
+  "output_path": "results/output/baseline",
+  "invalid_output_path": "results/invalid/baseline",
+  "input_rows": 20000,
+  "output_rows": 18640,
+  "invalid_rows": 460,
+  "runtime_seconds": 31.42,
+  "shuffle_partitions": 200,
+  "repartition": null,
+  "output_files_count": 18,
+  "output_size_bytes": 35124512,
+  "timestamp_utc": "20260115T140000Z"
+}

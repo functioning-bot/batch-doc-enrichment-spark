@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.data/
+data/
+results/output/
+results/invalid/
+data/input.jsonl
+
+# Spark
+*.parquet
+*.crc
+
+# Logs
+*.log

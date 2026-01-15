@@ -1,0 +1,16 @@
+{
+  "mode": "tuned",
+  "spark_version": "3.5.1",
+  "input_path": "data/input.jsonl",
+  "output_path": "results/output/tuned",
+  "invalid_output_path": "results/invalid/tuned",
+  "input_rows": 20000,
+  "output_rows": 18640,
+  "invalid_rows": 460,
+  "runtime_seconds": 19.87,
+  "shuffle_partitions": 48,
+  "repartition": 48,
+  "output_files_count": 7,
+  "output_size_bytes": 35124512,
+  "timestamp_utc": "20260115T140000Z"
+}
